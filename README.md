@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Willintong and I am currently finishing my Systems Engineering degree at the University of Pamplona!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/NinToDev/Testeo/blob/main/404.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I'm currently working on:
